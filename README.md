@@ -1,6 +1,4 @@
-## Hi there, I'm [Suraj Dhaware](https://kulkarnimandar96.wixsite.com/mandar)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
-<h3>Check out my portfolio: <a href="https://kulkarnimandar96.wixsite.com/mandar"</a> click here</h3>
 
 
 <p align="center">
