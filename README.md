@@ -54,13 +54,7 @@
 </p>
 
 
-### Top repositories
 
-
-<p align="center">
-  <a href = "https://github.com/suraj8805/geofence-offer-navigator">
-  </a>
-</p>
 
 
 
