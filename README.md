@@ -1,6 +1,7 @@
 
 ## Hi there, I'm [Suraj Dhaware](https://sdhaware95.wixsite.com/suraj)! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=35 height=35> 
 
+<h3>Check out my portfolio: <a href="https://sdhaware95.wixsite.com/suraj"</a> click here</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj1996&label=Profile%20views&color=0e75b6&style=flat" alt="suraj1996" /> </p>
 <p>
