@@ -16,8 +16,8 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as Full stack Intern at Error Technologies Hyderabad.
-- 💼 I'm currently pursuing Master of computer Applications (Final Year) from Vishwakarma Institute of technology.
+- 👨🏽‍💻 I’m currently working as web developer intern at Error Technologies Hyderabad.
+- 💼 I'm Completed Master of computer Applications (May 2021 Passout) from Vishwakarma Institute of technology.
 - 💻 I'm looking for an full time opportunity in software development.
 - 🖋️ I'm actively participating in programming competitions on codechef.
 - 💬 Ask me anything related to development, ready to collaborate for projects.
