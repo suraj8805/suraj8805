@@ -45,7 +45,7 @@
   </a>
  </p>
  
-### Top Languages
+### Top Language
 
 <p align="center">
 <a href = "https://github.com/suraj8805">
